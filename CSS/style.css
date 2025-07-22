@@ -7,3 +7,41 @@ body {
 main {
   flex-grow: 1;
 }
+
+#btnIniciar {
+  background-color: rgb(125, 220, 155);
+  color: rgb(0, 0, 0);
+}
+
+#btnPausar {
+  background-color: rgb(240, 240, 139);
+  color: rgb(0, 0, 0);
+}
+
+#btnReset {
+  background-color: rgb(248, 78, 78);
+  color: rgb(0, 0, 0);
+}
+
+#btnIniciar:hover{
+  background-color: rgb(35, 150, 72);
+  transform: scale(1.03);
+  transition: 200ms;
+  color: rgb(0, 0, 0);
+}
+
+#btnPausar:hover{
+background-color: rgb(233, 233, 40);
+  transform: scale(1.03);
+  transition: 200ms;
+  color: rgb(0, 0, 0);
+}
+
+#btnReset:hover{
+  background-color: rgb(239, 33, 33);
+  transform: scale(1.03);
+  transition: 200ms;
+  color: rgb(0, 0, 0);
+}
+
+
