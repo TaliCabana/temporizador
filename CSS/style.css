@@ -44,4 +44,16 @@ background-color: rgb(233, 233, 40);
   color: rgb(0, 0, 0);
 }
 
+#inputTiempo {
+  border: 2px solid #51c4d3;
+  border-radius: 8px;
+  padding: 15px;
+  font-size: large;
+  box-shadow: 0 0 5px rgba(81, 196, 211, 0.5);
+}
 
+#inputTiempo:focus {
+  outline: none;
+  box-shadow: 0 0 10px rgba(81, 196, 211, 0.8);
+  border-color: #51c4d3;
+}
