@@ -4,7 +4,7 @@ Este proyecto consiste en una **aplicación web interactiva** que permite al usu
 
 ## 🚀 Demo del proyecto
 
-Mirá la demo del proyecto [aquí]() 👀
+Mirá la demo del proyecto [aquí](https://temporizadortali.netlify.app/) 👀
 
 ## 🖥️ Tecnologías Utilizadas
 
